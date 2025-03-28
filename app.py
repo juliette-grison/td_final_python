@@ -59,7 +59,7 @@ def barplot_top_10_ventes(data) :
         barmode='group',
         title="Frequence des 10 meilleures ventes",
         labels={"x": "Fréquence", "y": "Categorie du produit", "color": "Sexe"},
-        width=580, height=500
+        width=540, height=460
     ).update_layout(
         margin = dict(t=60)
     )
