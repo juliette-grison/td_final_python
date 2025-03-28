@@ -59,5 +59,8 @@ Tous ces indicateurs peuvent être ajustés en fonction du lieu sélectionné pa
 
 - Dash Bootstrap Components (amélioration du design)
 
+## 🔧 Visualisation du projet
+Le site est disponible à cette adresse : https://td-final-python.onrender.com/
+
 ## 📌 Auteur
 👩‍💻 Juliette Grison
